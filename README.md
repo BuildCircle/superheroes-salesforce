@@ -1,4 +1,4 @@
-# LWC playground
+# Build Circle - Superheroes Salesforce tech test
 
 Superheroes and villains are always battling it out, but how do we know who wins? In this test we will create a single page application to find out.
 
