@@ -9,7 +9,9 @@ During a battle the character with the highest score wins.
 We expect the solution to be simple, readable, and to be supported by good unit tests (reliable, fast, and asserting behaviour).
 
 1. Run the app
+```
 npm run dev
+```
 
 2. Check the code
 Familiarise yourself with the code.
